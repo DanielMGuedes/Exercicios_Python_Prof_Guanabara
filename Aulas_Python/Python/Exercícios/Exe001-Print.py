@@ -5,4 +5,3 @@ msg='Eu vou conseguir programar'
 print(msg)
 
 
-# Atualização Git

@@ -18,7 +18,9 @@
 # print(frase.upper().count('O')) - Junção de dois comandos de manipulação - Deixar tudo maiuscula e procurar
 # print(len(frase.strip())) - outro exemplo de junção de funções
 frase ='   Curso em Video Python   '
-print(frase.split())
+x = frase.replace('Python', 'Android')
+
+print(x)
 
 
 
