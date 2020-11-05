@@ -1,8 +1,12 @@
 # Exercicios_Python
  Exercícios_Python
 
-Exercícios Práticos realizados nos Munods 1, 2 e 3 do Curos de Python do curso em vídeo...
-https://www.cursoemvideo.com/ - Eu indico :+1:
+Exercícios Práticos realizados nos Munods 1, 2 e 3 do Curso de Python do Curso em Vídeo, com o Guanabara...
+https://www.cursoemvideo.com/ - Esse eu indico :+1:
 :thumbsup:
+Excelente opção de aprendizagem baseado na prática!
 
-Excelente opção de aprendizagem baseado na prática
+Cada exercícios foi/está sendo aprimorado e refinado com o desenvolvimetno das habilidades.
+Fique a vontade para sugerir melhorias, passar outras dicas e interegir para o nosso desenvolvimento!
+
+Forte Abraço! Fiquem com Deus!:raised_hand_with_fingers_splayed:
