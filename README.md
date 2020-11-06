@@ -10,3 +10,5 @@ Cada exercícios foi/está sendo aprimorado e refinado com o desenvolvimetno das
 Fique a vontade para sugerir melhorias, passar outras dicas e interegir para o nosso desenvolvimento!
 
 Forte Abraço! Fiquem com Deus!:raised_hand_with_fingers_splayed:
+
+Vamos Programar :nerd_face: :sunglasses:
