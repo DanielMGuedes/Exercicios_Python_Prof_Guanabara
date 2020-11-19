@@ -1,7 +1,7 @@
 # Exercicios_Python
  Exercícios_Python
 
-Exercícios Práticos realizados nos Munods 1, 2 e 3 do Curso de Python do Curso em Vídeo, com o Guanabara...
+Exercícios Práticos realizados nos Mundos 1, 2 e 3 do Curso de Python do Curso em Vídeo, com o Guanabara...
 https://www.cursoemvideo.com/ - Esse eu indico :+1:
 :thumbsup:
 Excelente opção de aprendizagem baseado na prática!
