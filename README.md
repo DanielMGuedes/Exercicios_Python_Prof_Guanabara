@@ -1,4 +1,4 @@
-# Exercicios_Python
+# Exercicios_Python - Prof.º Guanabara
  Exercícios_Python
 
 Exercícios Práticos realizados nos Mundos 1, 2 e 3 do Curso de Python do Curso em Vídeo, com o Guanabara...
